@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @K4pMerlin. U can just call me Kyle.
 - 👀 I’m interested in the intelligent robot & data science, 
-- but I really don't know what I really like and what I should learn, 
-- so, I just to learn the course in school and play it by ears :(
+      but I really don't know what I really like and what I should learn, 
+      so, I just to learn the course in school and play it by ears :(
 - 🌱 I’m currently learning C++/Python/SQL
 - 📫 If you have something that we can communicate, 
 - here is my 
