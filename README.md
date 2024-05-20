@@ -7,7 +7,7 @@
 - here is my 
 -            Email: 1448739143@qq.com/ wukunpeng2617@gmail.com
 -            QQ:1448739143
--            WeChat:K4pMerlin-Kyle
+-            WeChat:Kp-0617
 
 <!---
 K4pMerlin/K4pMerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
