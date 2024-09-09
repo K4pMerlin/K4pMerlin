@@ -4,7 +4,7 @@
       so, I just to learn the course in school and play it by ears :(
 - 🌱 I’m currently learning C++/Python/SQL
 - 📫 If you have something that we can communicate, 
-- here is my 
+- There are my: 
 -            Email: 1448739143@qq.com/ wukunpeng2617@gmail.com
 -            QQ:1448739143
 -            WeChat:Kp-0617
